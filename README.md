@@ -1,7 +1,11 @@
 # SimpleTranslator
 
 ## What it does
-The program is basically a simplified google translate with only voice inputs. First, it takes in the language the user speaks as the display language. It then asks for what language the user wants to translate. Then, what language they want to translate to. Finally, it asks for the content to translate and outputs the translated content.
+The program is basically a simplified google translate with only voice inputs. \
+First, it takes in the language the user speaks as the display language. \
+It then asks for what language the user wants to translate. \
+Then, what language they want to translate to. \
+Finally, it asks for the content to translate and outputs the translated content.
 
 ## How I built it
     - python
