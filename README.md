@@ -1,1 +1,1 @@
-# SimpleTranslation
+# SimpleTranslator
