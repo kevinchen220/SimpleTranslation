@@ -1,6 +1,6 @@
 # SimpleTranslator
 ##  Try it out
-https://www.dropbox.com/s/37p92knl58favmm/main.exe?dl=0 \
+https://www.dropbox.com/s/p05y5y53mv8ri70/main.exe?dl=0 \
 Downloading the .exe file with this link should allow you to try out the program.\
 It may take a while to load when you run it.
 
